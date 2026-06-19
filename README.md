@@ -132,9 +132,11 @@ law_project/
 │   └── cache/                 # 캐시
 │
 ├── documents/                 # 시스템 아키텍처 문서
+│   ├── 01_data_preprocessing.md
 │   ├── 02_system_architecture.md
 │   ├── 03_development_software.md
-│   └── 04_test_plan_and_results.md
+│   ├── 04_test_plan_and_results.md
+│   └── presentation.pdf
 │
 └── vector_db/                 # ChromaDB 벡터 저장소
     ├── laws/                  # 법령 벡터 DB
