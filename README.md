@@ -369,7 +369,7 @@ streamlit run main.py
 
 ## 회고 및 한계점 분석
 
-> *본 회고는 초기 실험 과정의 시행착오를 중심으로 서술되었다. 최종 아키텍처의 기술적 진화 단계는 02_system_architecture.md와 03_development_software.md의 '진화 단계 요약'을 참조하라.*
+> *본 회고는 초기 실험 과정의 시행착오를 중심으로 서술되었다. 최종 아키텍처의 기술적 진화 단계는 02_system_architecture.md와 03_development_software.md의 '진화 단계 요약'을 참조.*
 
 프로젝트 파이프라인은 다음과 같은 7단계 진화 과정을 거쳤습니다:
 
