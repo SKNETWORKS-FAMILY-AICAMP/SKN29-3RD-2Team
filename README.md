@@ -144,17 +144,18 @@ law_project/
 
 ---
 
-## 기술 스택
+## 🛠 기술 스택
 
-| 분야 | 기술 |
+| 분류 | 기술 |
 |------|------|
-| **프레임워크** | Python, Streamlit |
-| **LLM** | OpenAI GPT (gpt-5.4-nano) |
-| **RAG** | LangChain, LangGraph |
-| **벡터 DB** | ChromaDB |
-| **임베딩** | text-embedding-3-small |
-| **PDF 처리** | PyMuPDF (fitz) |
-| **데이터 수집** | 웹 크롤링 (BeautifulSoup 등) |
+| **Frontend** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **LLM** | ![OpenAI](https://img.shields.io/badge/GPT--5.4--nano-412991?style=flat-square&logo=openai&logoColor=white) |
+| **RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **Vector DB** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white) |
+| **임베딩** | ![OpenAI](https://img.shields.io/badge/text--embedding--3--small-412991?style=flat-square&logo=openai&logoColor=white) |
+| **PDF 처리** | ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-FF6B00?style=flat-square&logoColor=white) |
+| **데이터 수집** | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
