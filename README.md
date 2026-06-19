@@ -10,7 +10,7 @@
 
 | 이름 | 정영석 | 최원빈 | 성주연 | 박준희 |
 |:---:|:---:|:---:|:---:|:---:|
-| **사진** | <img width="100" height="100" src="https://github.com/user-attachments/assets/794d5da9-3880-47f1-ba84-a19db9649b57" /> | <img width="100" height="100" src="https://github.com/user-attachments/assets/b605de84-6c64-4739-922c-904b1faf2094" /> | <img width="100" height="100" src="https://github.com/user-attachments/assets/ebb16dc3-d0f3-48ce-8757-f2cfbb870f4c" /> | <img width="100" height="100" src="https://github.com/user-attachments/assets/b7935738-09c5-4c48-828c-f1aa37bd99ea" /> |
+| **사진** | <img width="100" src="https://github.com/user-attachments/assets/794d5da9-3880-47f1-ba84-a19db9649b57" /> | <img width="100" src="https://github.com/user-attachments/assets/b605de84-6c64-4739-922c-904b1faf2094" /> | <img width="100" src="https://github.com/user-attachments/assets/ebb16dc3-d0f3-48ce-8757-f2cfbb870f4c" /> | <img width="100" src="https://github.com/user-attachments/assets/b7935738-09c5-4c48-828c-f1aa37bd99ea" /> |
 | **역할** | **PM** | **AI Workflow** | **RAG Engineer** | **Backend Developer** |
 | **담당** | 전체 일정 관리, 통합 조율 | LangGraph 설계, 프롬프트 엔지니어링 | 벡터 DB 구성, 검색 파이프라인 최적화 | 서버 구축, API 연동, 데이터 파이프라인 |
 
